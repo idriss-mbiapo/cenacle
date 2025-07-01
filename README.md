@@ -4,7 +4,7 @@ Projet personnel : quand je débutais en programmation web.
 
 ## Description
 
-Ce dépôt contient mes premiers pas en développement web. Il s’agit d’un ensemble de fichiers HTML, CSS et peut-être JavaScript que j’ai réalisés pour apprendre et m’exercer.
+Ce dépôt contient mes premiers pas en développement web. Il s’agit d’un ensemble de fichiers HTML et CSS que j’ai réalisés pour apprendre et m’exercer.
 
 ## Fonctionnalités
 
